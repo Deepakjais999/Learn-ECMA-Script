@@ -33,7 +33,6 @@ console.log(emp);
 
 console.log("Second Languate is " + emp.languages[1]);
 
-
 console.log("Address is " + JSON.stringify(emp.address));
 
 console.log('Name is ' + emp.name);
